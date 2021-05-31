@@ -32,6 +32,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |         
-          echo echo running tests
-          python test_calc.py
+          echo installing pytest
+          pip install pytest
+          echo running tests
+          pytest
 
