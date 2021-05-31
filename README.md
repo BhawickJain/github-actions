@@ -6,7 +6,11 @@ author:
 or: 20210531131509
 ---
 
+[![tests](https://github.com/BhawickJain/github-actions/actions/workflows/test.yml/badge.svg)](https://github.com/BhawickJain/github-actions/actions/workflows/test.yml)
+
+
 Basic walkthrough of github actions.
+
 
 ## Why use GitHub Actions?
 
